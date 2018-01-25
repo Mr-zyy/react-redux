@@ -1,2 +1,3 @@
-# react-redux
-关于react-redux的一个demo
+# react-simple-o2o-demo
+
+介绍 Redux，详情参考[这里](./docs/README.md)
